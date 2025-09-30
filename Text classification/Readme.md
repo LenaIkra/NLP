@@ -7,7 +7,7 @@
 
 ## 1. Датасет
 
-**Источник:** [Customer Support Tickets Dataset](https://colab.research.google.com/drive/1_2r0ZeOn719VTBOXAnDvPN7SBUjMeXlg?usp=sharing)  
+**Источник:** [Customer Support Tickets Dataset](https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets)  
 
 **Характеристики:**
 - Размер: ~28k записей

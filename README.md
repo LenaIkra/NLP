@@ -1,5 +1,6 @@
 # NLP
 Здесь будут размещаться ДЗ и проекты по дисциплине "NLP".
+[Отчет по ДЗ_1](https://github.com/LenaIkra/NLP/tree/2e2cfbeafdb0cf5fa63ea355eb413bff7140f376/Text%20classification)
 
 # Команда №8
 Участники:
