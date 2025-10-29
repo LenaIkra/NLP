@@ -1,0 +1,30 @@
+# --- macOS system files ---
+.DS_Store
+
+# --- Python cache / build ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# --- Virtual environments ---
+.venv/
+env/
+venv/
+
+# --- Audio data / temp files ---
+data/
+*.wav
+*.mp3
+*.ogg
+
+# --- Environment variables ---
+.env
+
+# --- Logs and runtime ---
+logs/
+*.log
+nohup.out

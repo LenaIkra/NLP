@@ -1,0 +1,30 @@
+# === Core ===
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# === Audio processing ===
+librosa==0.10.2.post1
+soundfile==0.12.1
+noisereduce==3.0.2
+pydub==0.25.1
+scipy==1.13.1
+ffmpeg-python==0.2.0
+
+# === Speech recognition (Whisper) ===
+torch==2.2.2
+torchaudio==2.2.2
+openai-whisper==20231117
+
+# === Telegram bot ===
+pyTelegramBotAPI==4.22.1
+requests==2.32.3
+
+# === Optional: Flask server for webhook (production mode) ===
+Flask==3.0.3
+gunicorn==23.0.0
+
+# === Misc ===
+tqdm==4.66.5
